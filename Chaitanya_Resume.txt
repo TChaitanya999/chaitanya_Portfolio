@@ -1,0 +1,65 @@
+Talluri Chaitanya Sri Vignesh
+chaitanyasrivignesh@gmail.com
+9059339364
+OBJECTIVE
+A motivated and focused B.Tech student in Full Stack Web Development, seeking opportunities to apply my technical
+skills in real-world projects. I enjoy building scalable applications, improving user experiences, and continuously
+exploring new technologies.
+EDUCATION
+• GITAMSchoolsof Technology
+B.Tech in Computer Science & Engineering
+2022– Present
+CGPA: 8.79
+• SriChaitanya Junior College
+Intermediate (MPC)
+2020– 2022
+Percentage: 81.4%
+• SriChaitanya School
+SSC
+2022– Present
+CGPA: 8.79
+2020– 2022
+Percentage: 81.4%
+2019– 2020
+Percentage: 94.8%
+SKILLS SUMMARY
+• Programming Languages: C, C++, Java, Python
+• WebTechnologies: HTML, CSS, JavaScript, PHP, MySQL
+• Frameworks: Spring Boot, Hibernate, Spring Data JPA
+• Tools / Platforms: VS Code, Eclipse, Spring Tool Suite, Git
+• Soft Skills: Communication, Leadership, Problem Solving, Time Management
+PROJECTS
+• Online E-Commerce System: Built a complete shopping platform with product browsing, cart management, secure
+payments, and admin dashboards. Backend uses Spring Boot, Hibernate, REST APIs, and MySQL. Designed
+responsive frontend using HTML/CSS/JS and optimized queries for better performance.
+• Online Food Delivery System: Developed a food ordering platform using PHP, MySQL, HTML, CSS, and
+JavaScript. Added restaurant listing, menu filtering, cart flow, and a dashboard for menu and order management.
+Focused on UI responsiveness and streamlined backend workflows.
+• Online Ride Booking System: Built a ride-booking portal with fare estimation, route mapping, booking history, and
+user authentication using PHP/MySQL. Included dynamic pricing logic, clean UI, and efficient CRUD operations
+with optimized SQL queries.
+• NumberPlate Detection: Created a Python–OpenCV system using contour filtering, grayscale processing, edge
+detection, and ROI extraction. Improved accuracy using tuned preprocessing stages and automated cropping for
+OCR-ready output.
+INTERNSHIPS
+• JavaFull Stack Developer Intern — Blackbuck Engineer Pvt. Ltd.
+Intern
+May 2025– July 2025
+Worked on backend development using Java Spring Boot and REST APIs, integrated UI components, and resolved
+bugs to enhance performance. Gained experience in Agile workflows and full-stack development.
+• WebDevelopment Intern — Saiket Systems
+Intern
+June 2025– July 2025
+Designed and improved responsive web pages using HTML/CSS/JS. Enhanced user navigation, refined layouts, and
+collaborated with developers for UI and performance improvements.
+• WebDevelopment Intern — Plasmid
+Intern
+June 2024– August 2024
+Developed PHP–MySQL modules including login and validation systems. Worked on both frontend design and
+backend logic in client-based applications.
+CERTIFICATIONS
+• Cfor Everyone– Coursera
+• Data Structures– Coursera
+• WebDevelopment Bootcamp– Udemy
+• Java Full Stack– Eduskills
+• Java Full Stack– Kodnes
